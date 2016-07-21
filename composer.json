@@ -1,0 +1,21 @@
+{
+  "name": "erebusnz/gapi-google-analytics-php-interface",
+  "type": "library",
+  "keywords": ["gapi", "google analytics", "oauth", "oauth2"],
+  "description": "Google Analytics PHP5 Interface.",
+  "license": "MIT",
+  "homepage": "https://github.com/erebusnz/gapi-google-analytics-php-interface",
+  "authors": [
+    {
+      "name": "erebusnz"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "classmap": [
+      "gapi.class.php"
+    ]
+  }
+}
